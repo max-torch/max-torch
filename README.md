@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @max-torch
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in all things Data Science and being data-driven
 - 🌱 I’m currently learning Flask
 - 💞️ I’m looking to collaborate on Machine Learning Projects
