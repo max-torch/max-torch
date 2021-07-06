@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in all things Data Science and being data-driven
-- 🌱 I’m currently learning Flask
 - 💞️ I’m looking to collaborate on Machine Learning Projects
+- Checkout my [Portfolio Website](https://max-torch.github.io/) where I discuss all my projects!
 
 I consider myself a strategic and analytical person. I prefer to make decisions that are informed by data. When I receive information I prefer to contextualize it in terms of where it came from and its degree of uncertainty.
 
