@@ -20,10 +20,12 @@ I am looking for an employer who shares my ethos:
 * There are no useless Science and Math.
 * Maintain systems continuously. Review what works and what doesn’t.
 
-# Medium Articles
+# My Medium Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+# My GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-torch)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
