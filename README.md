@@ -22,6 +22,7 @@ I am looking for an employer who shares my ethos:
 
 # My Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Style Formatting with VS Code](https://lacsonalexanderz.medium.com/style-formatting-with-vs-code-b8b476cb27a?source=rss-28163ad07642------2)
 - [Make Others Want to Work with Your Code](https://medium.com/codex/make-others-want-to-work-with-your-code-93bf745bd35b?source=rss-28163ad07642------2)
 - [Visualize your Steam Purchase History with Python](https://lacsonalexanderz.medium.com/visualize-your-steam-purchase-history-with-python-21de2c2a365a?source=rss-28163ad07642------2)
 <!-- BLOG-POST-LIST:END -->
