@@ -14,6 +14,8 @@ I've since then worked on
 
 Today, I take pride in how far I've come, and I'm confident enough to think of myself as a professional instead of a hobbyist.
 
+I'm currently looking for a role in dashboard app development, ideally using [Plotly](https://plotly.com/). I'd especially love to work at a place that wants to value the quality of their data and ensure that it is suitable for accurate visualization, analytics, and even AI/ML model training.
+
 # My Medium Articles
 <!-- BLOG-POST-LIST:START -->
 - [Style Formatting with VS Code](https://lacsonalexanderz.medium.com/style-formatting-with-vs-code-b8b476cb27a?source=rss-28163ad07642------2)
