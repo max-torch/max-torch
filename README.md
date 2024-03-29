@@ -1,24 +1,18 @@
 # About Me
 
 - 👋 Hi, I’m Alex
-- Checkout my [Portfolio Website](https://max-torch.github.io/)
+- Checkout my [Portfolio Website](https://max-torch.github.io/portfolio-v2/)
 
-I consider myself a strategic and analytical person. I prefer to make decisions that are informed by data. When I receive information I prefer to contextualize it in terms of where it came from and its degree of uncertainty.
+I was first introduced to programming during my formal education, where I thought I had a natural inclination for coding. However, it wasn't until I started working as a Semiconductor Testing Engineer that I realized my skill level was more on the level of a hobbyist than that of a professional. The coding proficiency of my friend and colleague at work, who effortlessly applied code to improve things and solve problems, served as a wake-up call, highlighting the gap between my abilities and professional standards.
 
-I believe that innovation only thrives when people feel like they are respected and cared for. People who feel like they do not belong will not share their ideas, or may not even bother to come up with any.
+The onset of the Coronavirus pandemic presented an unexpected opportunity for self-improvement. With ample time and a desire to enhance my skills, I delved deeper into programming. I learned essential practices beyond mere coding proficiency: things like writing tests, documenting code, version control, getting around Linux using Bash, containers, reading and writing data, how software developers effectively communicate with each other, dependency and package management, etc.
 
-My idea of a good time would be playing a strategy/role-playing board game or PC game with friends. My idea of a great time would be to work on an innovative technical project with a team of people who are just as passionate as I am about creating something incredible.
+I've since then worked on
+- open-source contributions to a game called [Battle for Wesnoth](https://www.wesnoth.org/), a turn-based high fantasy strategy game
+- back-end and front-end work for [Park King](https://apps.apple.com/ph/app/park-king-ph/id6450494343), a cross-platform mobile app that allows users to book parking slots for events
+- data dashboard prototypes for [Includovate](https://www.includovate.com/), an organization dedicated to empowering marginalized communities and excluded groups in society
 
-I am looking for an employer who shares my ethos:
-
-* Make things Better. Innovate. Experiment. Disrupt.
-* Seek the Truth. Be Curious. Apply Critical Thinking.
-* Learn Independently as well as from Others.
-* Maintain Financial Stability. Plan Expenses.
-* Socialize. Network.
-* Sympathize with New Learners. Articulate Foundational Concepts.
-* There are no useless Science and Math.
-* Maintain systems continuously. Review what works and what doesn’t.
+Today, I take pride in how far I've come, and I'm confident enough to think of myself as a professional instead of a hobbyist.
 
 # My Medium Articles
 <!-- BLOG-POST-LIST:START -->
