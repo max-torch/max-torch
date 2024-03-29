@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Alex
 - Checkout my [Portfolio Website](https://max-torch.github.io/portfolio-v2/)
 
-I was first introduced to programming during my formal education, where I thought I had a natural inclination for coding. However, it wasn't until I started working as a Semiconductor Testing Engineer that I realized my skill level was more on the level of a hobbyist than that of a professional. The coding proficiency of my friend and colleague at work, who effortlessly applied code to improve things and solve problems, served as a wake-up call, highlighting the gap between my abilities and professional standards.
+I was first introduced to programming during my formal education, where I thought I had a natural inclination for coding. However, it wasn't until I started working as a Semiconductor Testing Engineer at Maxim that I realized my skill level was more on the level of a hobbyist than that of a professional. The coding proficiency of my friend and colleague at work, who effortlessly applied code to improve things and solve problems, served as a wake-up call, highlighting the gap between my abilities and professional standards.
 
 The onset of the Coronavirus pandemic presented an unexpected opportunity for self-improvement. With ample time and a desire to enhance my skills, I delved deeper into programming. I learned essential practices beyond mere coding proficiency: things like writing tests, documenting code, version control, getting around Linux using Bash, containers, reading and writing data, how software developers effectively communicate with each other, dependency and package management, etc.
 
